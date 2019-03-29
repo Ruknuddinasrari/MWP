@@ -11,4 +11,5 @@ while True:
 		break
 
 
-PRINT("HELLO")
+
+print("hello world")
